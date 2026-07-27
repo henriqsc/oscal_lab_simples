@@ -2994,10 +2994,10 @@
         } ]
       }, {
         "id" : "cisc-007",
-        "title" : "Continuous Vulnerability Management",
+        "title" : "Gerenciamento Contínuo de Vulnerabilidades",
         "props" : [ {
           "name" : "label",
-          "value" : "CIS Control 7"
+          "value" : "Controles CIS 7"
         } ],
         "links" : [ {
           "href" : "#37c4fb6d-ca59-4281-9006-51b7cdf633d8",
@@ -3006,7 +3006,7 @@
         "parts" : [ {
           "id" : "cisc-007_stmt",
           "name" : "statement",
-          "prose" : "Develop a plan to continuously assess and track vulnerabilities on all enterprise assets within the enterprise's infrastructure, in order to remediate, and minimize, the window of opportunity for attackers. Monitor public and private industry sources for new threat and vulnerability information."
+          "prose" : "Desenvolva um plano para avaliar continuamente e acompanhar as vulnerabilidades de todos os ativos corporativos da infraestrutura da organização, a fim de remediá-las e minimizar a janela de oportunidade para atacantes. Monitore fontes públicas e privadas do setor para obter informações sobre novas ameaças e vulnerabilidades."
         } ],
         "controls" : [ {
           "id" : "cisc-007.001",
@@ -3242,10 +3242,10 @@
           } ]
         }, {
           "id" : "cisc-007.005",
-          "title" : "Perform Automated Vulnerability Scans of Internal Enterprise Assets",
+          "title" : "Realizar Varreduras Automatizadas de Vulnerabilidades em Ativos Internos da Organização",
           "props" : [ {
             "name" : "label",
-            "value" : "CIS Safeguard 7.5"
+            "value" : "Prática CIS 7.5"
           }, {
             "name" : "asset-class",
             "ns" : "https://cisecurity.org/ns/oscal",
@@ -3283,22 +3283,22 @@
           "parts" : [ {
             "id" : "cisc-007.005_stmt",
             "name" : "statement",
-            "prose" : "Perform automated vulnerability scans of internal enterprise assets on a quarterly, or more frequent, basis. Conduct both authenticated and unauthenticated scans."
+            "prose" : "Realize varreduras automatizadas de vulnerabilidades nos ativos internos da organização, trimestralmente ou com maior frequência. Execute tanto varreduras autenticadas quanto não autenticadas."
           }, {
             "id" : "cisc-007.005_obj",
             "name" : "assessment-objective",
             "parts" : [ {
               "id" : "cisc-007.005_obj-001",
               "name" : "assessment-objective",
-              "prose" : "Automated vulnerability scans of internal enterprise assets are performed."
+              "prose" : "São realizadas varreduras automatizadas de vulnerabilidades nos ativos internos da organização."
             }, {
               "id" : "cisc-007.005_obj-002",
               "name" : "assessment-objective",
-              "prose" : "Scans are conducted on a quarterly, or more frequent, basis."
+              "prose" : "As varreduras são realizadas trimestralmente ou com maior frequência."
             }, {
               "id" : "cisc-007.005_obj-003",
               "name" : "assessment-objective",
-              "prose" : "Both authenticated and unauthenticated scans are conducted."
+              "prose" : "São realizadas tanto varreduras autenticadas quanto não autenticadas."
             } ],
             "links" : [ {
               "href" : "#cisc-007.005_stmt",
