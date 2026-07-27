@@ -2,12 +2,12 @@
   "profile": {
     "uuid": "6c45f32d-3648-49c5-8c77-cdba6ea5b726",
     "metadata": {
-      "title": "Container Image Vulnerability Scanning Profile",
+      "title": "Profile que seleciona uma só prática (safeguards) do controle 7 do CIS Controls",
       "version": "1.0.0",
       "oscal-version": "1.1.3",
       "last-modified": "2026-07-22T00:00:00Z",
       "published": "2026-07-22T00:00:00Z",
-      "remarks": "This profile selects CIS Safeguard cisc-007.005 for a container image vulnerability management laboratory."
+      "remarks": "Esse perfil de controle demonstrativo seleciona somente cisc-007.005 para ser aplicado em um laboratório contendo um container Ubuntu"
     },
     "imports": [
       {
