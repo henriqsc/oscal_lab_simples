@@ -11,7 +11,7 @@
     },
     "imports": [
       {
-        "href": "http://127.0.0.1:5500/catalogo_cis_controls.json",
+        "href": "https://raw.githubusercontent.com/henriqsc/oscal_lab_simples/refs/heads/main/catalogo_cis_controls.json",
         "include-controls": [
           {
             "with-ids": [
