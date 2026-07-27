@@ -11,7 +11,7 @@
     },
 
     "import-profile": {
-      "href": "../profile/vulnerability-profile.json"
+      "href": "https://raw.githubusercontent.com/henriqsc/oscal_lab_simples/refs/heads/main/profile_minimo_para_container_lab.json"
     },
 
     "system-characteristics": {
