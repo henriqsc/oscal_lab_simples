@@ -1,4 +1,4 @@
-# Repositório OSCAL
+# Repositório OSCAL (EM CONSTRUÇÃO)
 
 Repositório direcionado para o uso dos modelos OSCAL (NIST) em língua portuguesa, sua adoção e possíveis extensões.
 
