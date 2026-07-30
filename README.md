@@ -5,7 +5,7 @@ Repositório direcionado para o uso dos modelos OSCAL (NIST) em língua portugue
 ## O que é OSCAL
 
 OSCAL significa Open Security Controls Assessment Language, e é constituído de 7 modelos de representação de informações de conformidade em sistemas de informação.
-Os modelos podem ser escritos em JSON, XML e YAML. Seu objetivo é formar descrições interpretáveis por máquina, mas que podem gerar documentos que são consumidos por humanos, em relatórios, Dashboards e outras formas de representação gráfica.
+Os modelos podem ser escritos em JSON, XML e YAML. Seu objetivo é formar descrições interpretáveis por máquina, mas que podem gerar documentos que são consumidos por humanos, em relatórios, dashboards e outras formas de representação gráfica.
 
 **Catálogo**: O modelo descreve um catálogo de controles, como CIS Controls e NIST 800-53, porém qualquer conjunto de controles pode ser definido em um catálogo.
 
